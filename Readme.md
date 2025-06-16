@@ -33,3 +33,6 @@
      2. Edit file `exporter.bat`, sesuaikan nilai variabel `output_file`, lihat contoh : https://prnt.sc/RKLjufe_sf_9
      3. Jalankan file `converter-json-to-gml.bat`
      4. Lihat hasilnya pada path variabel `output_file`
+
+## Update kedepan
+1. Log setiap proses
