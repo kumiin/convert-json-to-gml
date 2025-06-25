@@ -34,5 +34,11 @@
      3. Jalankan file `converter-json-to-gml.bat`
      4. Lihat hasilnya pada path variabel `output_file`
 
-## Update kedepan
-1. Log setiap proses
+## Update Terbaru:
+1. Log sudah berada di `converter-json-to-gml\folder-log\converter-json-to-gml.log`
+2. Persentase sudah ada, berikut sample tampilannya:
+   ```
+   [##########....................] 33%
+   [####################..........] 66%
+   [##############################] 100%
+   ```
